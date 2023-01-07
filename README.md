@@ -6,10 +6,10 @@ To add your own dat file the format should be:
 
 ---
     Number of Planets
-    Sun Mass Sun x-value Sun y-value Sun vx-value Sun vy-value
-    Earth Mass Earth x-value Earth y-value Earth vx-value Earth vy-value
-    Moon Mass Moon x-value Moon y-value Moon vx-value Moon vy-value
-    Planet Mass Planet x-value Planet y-value Planet vx-value Planet vy-value
+    Sun Mass      Sun x-value     Sun y-value      Sun vx-value      Sun vy-value
+    Earth Mass    Earth x-value   Earth y-value    Earth vx-value    Earth vy-value
+    Moon Mass     Moon x-value    Moon y-value     Moon vx-value     Moon vy-value
+    Planet Mass   Planet x-value  Planet y-value   Planet vx-value   Planet vy-value
 ---
 
 The Moon and another Planet is optional so it will still work without it. 
